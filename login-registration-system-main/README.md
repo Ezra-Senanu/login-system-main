@@ -14,7 +14,7 @@ The project is made using C++
 5. Password strength checker which checks for length, presence of digits, lowercase letters, uppercase letters and special characters
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/FIkw7itEnjk)
 
 # Development Environment    
 Language: C++    
